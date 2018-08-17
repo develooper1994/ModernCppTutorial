@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Kaynak Dosyalar">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Üst Bilgi Dosyaları">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Kaynak Dosyaları">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Classlar">
+      <UniqueIdentifier>{d80bf355-7448-4673-9028-1c10dba49324}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="functionalStyle">
+      <UniqueIdentifier>{fb830517-04d9-4323-bb21-1e2176b6fd00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="functionalStyle\Yararlı Fonksiyonlar">
+      <UniqueIdentifier>{c86fb515-15d9-4e05-b442-fb1501d1aaf6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dersler">
+      <UniqueIdentifier>{66f57751-32be-4625-aa03-0943a735dbdd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Templates">
+      <UniqueIdentifier>{00658fc4-c8a5-488e-9548-b213f67e6cfd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Üst Bilgi Dosyaları\basicHeaders">
+      <UniqueIdentifier>{78b593ff-2388-4689-b762-6be68f655524}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Üst Bilgi Dosyaları\others">
+      <UniqueIdentifier>{9c747140-6800-439d-9d48-3e59babb62e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Üst Bilgi Dosyaları\importantHeaders">
+      <UniqueIdentifier>{d73ae243-ed5c-47c5-bfc3-705d5f2f7add}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Animal.h">
+      <Filter>Classlar</Filter>
+    </ClInclude>
+    <ClInclude Include="Dog.h">
+      <Filter>Classlar</Filter>
+    </ClInclude>
+    <ClInclude Include="functionalStyle.h">
+      <Filter>functionalStyle</Filter>
+    </ClInclude>
+    <ClInclude Include="dersler.h">
+      <Filter>Dersler</Filter>
+    </ClInclude>
+    <ClInclude Include="TemplateStyle.h">
+      <Filter>Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="customHeaders.h">
+      <Filter>Üst Bilgi Dosyaları\basicHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="stdheaders.h">
+      <Filter>Üst Bilgi Dosyaları\basicHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="generateRandom.h">
+      <Filter>Üst Bilgi Dosyaları\others</Filter>
+    </ClInclude>
+    <ClInclude Include="initialize_twister.h">
+      <Filter>Üst Bilgi Dosyaları\others</Filter>
+    </ClInclude>
+    <ClInclude Include="pipeStyle.h">
+      <Filter>Üst Bilgi Dosyaları\others</Filter>
+    </ClInclude>
+    <ClInclude Include="PointlerFonksiyonlar.h">
+      <Filter>Üst Bilgi Dosyaları\others</Filter>
+    </ClInclude>
+    <ClInclude Include="polyTemplateClass.h">
+      <Filter>Classlar</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Üst Bilgi Dosyaları\importantHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Üst Bilgi Dosyaları\importantHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Üst Bilgi Dosyaları\importantHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="Associative.h">
+      <Filter>Üst Bilgi Dosyaları\others</Filter>
+    </ClInclude>
+    <ClInclude Include="regexTanımı.h">
+      <Filter>Üst Bilgi Dosyaları\others</Filter>
+    </ClInclude>
+    <ClInclude Include="kutucuk.h">
+      <Filter>Classlar</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="ModernCppTutorial.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="YararlıFonksiyonlar.h">
+      <Filter>functionalStyle\Yararlı Fonksiyonlar</Filter>
+    </ClCompile>
+    <ClCompile Include="TemplateStyle.cpp">
+      <Filter>Templates</Filter>
+    </ClCompile>
+    <ClCompile Include="Animal.cpp">
+      <Filter>Classlar</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
