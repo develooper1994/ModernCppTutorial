@@ -12,6 +12,11 @@
 	sitesinden anlatacağım.
 	* Qml için ilk tanımda http://zetcode.com/gui/qtquick/ sitesinden yararlanacağım.
 	Sonra https://qmlbook.github.io/ yararlanacağım. Qml ile guilerin tasarlanma ve çalışma hızlarına şaşıracaksınız.
-	* Ayrıca .net core ilgi çekici. C# diline nispeten kolay olduğundan F# dilini tanıttım. https://github.com/develooper1994/FSharpDersler . C# dilini öğreniyorum. https://github.com/develooper1994/CsLearning . Öğreniplerimi paylaşmaya devam edeceğim.
+	* Ayrıca .net core ilgi çekici. C# diline nispeten kolay olduğundan F# dilini tanıttım.
+	https://github.com/develooper1994/FSharpDersler . 
+	C# dilini öğreniyorum. https://github.com/develooper1994/CsLearning . Öğreniplerimi paylaşmaya devam edeceğim.
+	
+	* Lütfen Modern C++ dilinin yaygınlaşması için paylaşmayı yada kodlara ve yorumlara katkıda bulunmayı unutmayın.
 
 	*** Beni takip etmeye devam edin :) ***
+	
