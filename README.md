@@ -15,6 +15,7 @@
 	* Ayrıca .net core ilgi çekici. C# diline nispeten kolay olduğundan F# dilini tanıttım.
 	https://github.com/develooper1994/FSharpDersler . 
 	C# dilini öğreniyorum. https://github.com/develooper1994/CsLearning . Öğreniplerimi paylaşmaya devam edeceğim.
+	* F# ve Rust dilleri harika duruyor. Üzerinde uğraşabilirim.
 	
 	* Lütfen Modern C++ dilinin yaygınlaşması için paylaşmayı yada kodlara ve yorumlara katkıda bulunmayı unutmayın.
 
