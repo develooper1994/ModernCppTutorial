@@ -54,9 +54,6 @@
     <ClInclude Include="TemplateStyle.h">
       <Filter>Templates</Filter>
     </ClInclude>
-    <ClInclude Include="customHeaders.h">
-      <Filter>Üst Bilgi Dosyaları\basicHeaders</Filter>
-    </ClInclude>
     <ClInclude Include="stdheaders.h">
       <Filter>Üst Bilgi Dosyaları\basicHeaders</Filter>
     </ClInclude>
@@ -92,6 +89,9 @@
     </ClInclude>
     <ClInclude Include="kutucuk.h">
       <Filter>Classlar</Filter>
+    </ClInclude>
+    <ClInclude Include="customHeaders.h">
+      <Filter>Üst Bilgi Dosyaları\basicHeaders</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
