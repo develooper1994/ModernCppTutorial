@@ -1,4 +1,7 @@
-﻿# ModernCppTutorial
+﻿https://www.udemy.com/pratik-temel-modern-c/learn/v4/overview
+Eğer Modern C++ öğrenmek istiyorsanız tavsiye edebileceğim en iyi kurs.
+ 
+ # ModernCppTutorial
 	* Tebrikler Temel Modern c++ bitmiştir. Yeni İhtiyaç olan birşey olursa ekleyerek devam ederim.
 	
 	* Daha ayrıntılı bilgi için https://en.cppreference.com/w/cpp/language sitesine başvurabilirsiniz.
