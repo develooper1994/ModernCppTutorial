@@ -28,6 +28,22 @@ void Print(T &&a, Params&&... args) {
 	Print(std::forward<Params>(args)...);
 }
 
+/* // Buradaki bazý yeni c++ 17 özellikleri sadece gcc ve clang son versiyonlarýnda geçerlidir. Bu yüzden fazla birþey beklemeyin.
+// Qt windows üzerinde gcc 7.3.0 kullanabiliyor.
+template <typename Type, Type value> constexpr Type constant = value;
+constexpr auto const IntConstant42 = constant<int, 42>;
+
+template <auto value> constexpr auto constant = value;
+constexpr auto const IntConstant42 = constant<42>;
+
+template<std::size_t SIZE>
+class Foo {};
+
+template <template<auto> class T, auto K>
+auto extractSize(const T<K>&) {
+	return K;
+}
+*/
 
 int main() {
 	Print({ 1,2,3,4 });
@@ -35,6 +51,7 @@ int main() {
 	Integer val{ 1 };
 	Print(0, val, Integer{ 2 });
 	return 0;
+
 }
 /*
 1. Print(1, 2.5, 3, "4") ;
